@@ -50,7 +50,7 @@ Mission4/
 ### 1️⃣ Clone Repository
 
 ```
-git clone https://github.com/your-username/ai-cover-letter-generator.git
+git clone https://aryan-webdeveloper.github.io/ai-cover-letter-generator/
 cd ai-cover-letter-generator
 ```
 
