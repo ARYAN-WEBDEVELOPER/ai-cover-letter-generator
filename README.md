@@ -117,7 +117,7 @@ npm run dev
 ## 👨‍💻 Author
 
 Aryan
-B.Tech CSE
+https://github.com/ARYAN-WEBDEVELOPER
 
 ---
 
